@@ -1,4 +1,3 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
 -- CAC PER CHANNEL
 
 Select Marketing_Channel, Sum(CAC) as Total_CAC
